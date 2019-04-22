@@ -9,6 +9,7 @@
 ## Table of Contents
 
 * [What it does](#what-it-does)
+* [What I modified](#what-i-modified)
 * [Requirements](#requirements)
 * [Development](#development)
 * [Commands](#commands)
@@ -24,6 +25,15 @@
 ## What it does
 
 A file sharing experiment which allows you to send encrypted files to other users.
+
+---
+
+
+---
+
+## What I modified
+
+I modified this to better suite blutech by expanding the upload limit and removing the need to create an account to upload files greater than 2.5 GB.
 
 ---
 
