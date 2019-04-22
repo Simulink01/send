@@ -28,9 +28,6 @@ A file sharing experiment which allows you to send encrypted files to other user
 
 ---
 
-
----
-
 ## What I modified
 
 I modified this to better suite blutech by expanding the upload limit and removing the need to create an account to upload files greater than 2.5 GB.
