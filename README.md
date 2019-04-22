@@ -1,4 +1,4 @@
-# [![Blutech Send](./assets/logo.svg)](https://send.firefox.com/)
+# Blutech Send
 
 **Docs:** [FAQ](docs/faq.md), [Encryption](docs/encryption.md), [Build](docs/build.md), [Docker](docs/docker.md), [Metrics](docs/metrics.md), [More](docs/)
 
