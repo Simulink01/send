@@ -1,4 +1,4 @@
-# [![Firefox Send](./assets/logo.svg)](https://send.firefox.com/)
+# [![Blutech Send](./assets/logo.svg)](https://send.firefox.com/)
 
 [![CircleCI](https://img.shields.io/circleci/project/github/mozilla/send.svg)](https://circleci.com/gh/mozilla/send)
 
