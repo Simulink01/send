@@ -1,5 +1,6 @@
-# Blutech Send, a modified version of [![CircleCI](https://img.shields.io/circleci/project/github/mozilla/send.svg)](https://circleci.com/gh/mozilla/send)
+# Blutech Send, a modified version of [![Firefox Send](./assets/logo.svg)](https://send.firefox.com/)
 
+[![CircleCI](https://img.shields.io/circleci/project/github/mozilla/send.svg)](https://circleci.com/gh/mozilla/send)
 **Docs:** [FAQ](docs/faq.md), [Encryption](docs/encryption.md), [Build](docs/build.md), [Docker](docs/docker.md), [Metrics](docs/metrics.md), [More](docs/)
 
 ---
